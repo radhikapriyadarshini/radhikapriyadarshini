@@ -3,7 +3,7 @@
 ### Python Beginner | Power System Engineering Enthusiast | Future Developer
 
 I'm starting my journey as a **Python developer** with a passion for **Power System Engineering (PSE)**.  
-My goal is to understand the **"black box"** behind industry tools (PSS®E, DIgSILENT) and build my own scripts for  
+My goal is to understand the **"black box"** behind industry tools and build my own scripts for  
 power flow, stability, and grid optimization.
 
 ---
