@@ -33,7 +33,7 @@ power flow, stability, and grid optimization.
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [[[Your LinkedIn Profile](https://www.linkedin.com](https://www.linkedin.com/in/radhika-priyadarshini/)]  ](https://www.linkedin.com/in/radhika-priyadarshini/)
+- LinkedIn:(https://www.linkedin.com/in/radhika-priyadarshini/)
     
 ---
 
