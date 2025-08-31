@@ -24,7 +24,7 @@
 class PowerSystemEngineer:
     def __init__(self):
         self.name = "Radhika Priyadarshini"
-        self.role = "Python Developer & PSE Enthusiast"
+        self.role = "Python Learner & PSE Enthusiast"
         self.language_spoken = ["Python", "MATLAB", "English"]
         self.current_focus = "Building PSE tools from scratch"
         
@@ -221,30 +221,12 @@ graph LR
 <img src="https://skillicons.dev/icons?i=azure,docker,linux" />
 
 ### ⚡ Power System Engineering
-**Industry Tools:** PSS®E | DIgSILENT PowerFactory | ETAP | PSCAD  
-**Research Areas:** Grid Stability | Renewable Integration | Smart Grids
+**Industry Tools:** PSS®E | DIgSILENT PowerFactory | ETAP | IPSA | Oracle NMS | Monarch - OSI/Aspentech
+**Research Areas:** Grid Stability | Renewable Integration | Smart Grids | Reactive Power Compensation 
+**Grids Worked on:** India | UK | USA | Australia | Thailand | UAE 
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Radhika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radhikapriyadarshini&theme=tokyo-night)](https://github.com/radhikapriyadarshini)
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=radhikapriyadarshini&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -269,7 +251,7 @@ graph LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhika-priyadarshini/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhikapriyadarshini)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhikapriyadarshini.eee@gmail.com)
 
 </div>
 
