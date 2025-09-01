@@ -110,9 +110,12 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Power System Tools
+### ⚡ Power System Engineering
 ![PSS/E](https://img.shields.io/badge/PSS%2FE-FF6B35?style=for-the-badge&logo=siemens&logoColor=white)
 ![DIgSILENT](https://img.shields.io/badge/DIgSILENT-0066CC?style=for-the-badge&logo=siemens&logoColor=white)
+![ETAP](https://img.shields.io/badge/ETAP-1E90FF?style=for-the-badge&logo=energy&logoColor=white)
+![IPSA](https://img.shields.io/badge/IPSA-FF4500?style=for-the-badge&logo=electric&logoColor=white)
+![Monarch-OSI](https://img.shields.io/badge/Monarch--OSI-8A2BE2?style=for-the-badge&logo=crown&logoColor=white)
 
 ### Cloud & Development
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
