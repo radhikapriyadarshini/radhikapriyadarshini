@@ -196,19 +196,6 @@ graph LR
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-
-### 📅 This Week's Highlights
-- 🚀 Completed Python data structures module
-- ⚡ Started power flow Newton-Raphson implementation
-- 📊 Created visualization for IEEE 14-bus system
-- 📚 Published new learning notes on load modeling
-
-<!--END_SECTION:activity-->
-
----
 
 ## 🌟 Skills Constellation
 
