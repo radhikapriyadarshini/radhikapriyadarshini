@@ -76,14 +76,22 @@ me.say_hi()
 
 ## 🚀 Featured Repositories
 
-<!-- Replace these with your actual repository links -->
 <div align="center">
   
 [![Daily Python Learnings](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Daily_Python_Learnings&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Daily_Python_Learnings)
-[![Power System Analysis](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Power-System-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Power-System-Analysis)
 
-[![Grid Optimization](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Grid-Optimization-Tools&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Grid-Optimization-Tools)
-[![Renewable Integration](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Renewable-Integration-Models&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Renewable-Integration-Models)
+</div>
+
+### 📚 Repository Highlights
+
+<div align="center">
+
+| Repository | Description | Language | Stars | Last Updated |
+|------------|-------------|----------|-------|--------------|
+| [🐍 Daily_Python_Learnings](https://github.com/radhikapriyadarshini/Daily_Python_Learnings) | Learning python as an Power System Engineer, this repo has list of my daily learnings! | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ⭐ 1 | Recently Active |
+| 🔋 Power-System-Tools | *Coming Soon* - Power flow analysis toolkit | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | - | In Development |
+| ⚡ Grid-Analysis-Suite | *Coming Soon* - Economic dispatch & optimization | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | - | In Development |
+| 📊 PSE-Data-Visualizer | *Coming Soon* - Interactive power system dashboards | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | - | Planned |
 
 </div>
 
