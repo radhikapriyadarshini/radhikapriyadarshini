@@ -258,26 +258,6 @@ gantt
 - [ ] **🏆 Industry Recognition** - Contribute to major open-source projects
 
 ---
-
-## 💼 Professional Experience Highlights
-
-<div align="center">
-
-### 🌍 Global Grid Experience
-
-| Region | Systems Worked On | Key Projects | Tools Used |
-|--------|------------------|--------------|------------|
-| 🇮🇳 **India** | Transmission & Distribution | Grid stability, Renewable integration | PSS/E, DIgSILENT |
-| 🇬🇧 **United Kingdom** | National Grid | Protection coordination, Fault analysis | IPSA, ETAP |
-| 🇺🇸 **United States** | Regional ISOs | Economic dispatch, Market analysis | PowerWorld, MATLAB |
-| 🇦🇺 **Australia** | NEM Systems | Voltage stability, HVDC studies | PSCAD, PSS/E |
-| 🇹🇭 **Thailand** | Industrial Networks | Power quality, Harmonic analysis | ETAP, DIgSILENT |
-| 🇦🇪 **UAE** | Smart Grid Projects | Microgrid control, Energy storage | Custom Python tools |
-
-</div>
-
----
-
 ## 📚 Knowledge Sharing & Community
 
 <details>
