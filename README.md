@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Beginner+%7C+Power+System+Engineer;Building+Tomorrow's+Grid+Solutions;Transforming+Ideas+into+Code;Learning+%26+Growing+Every+Day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Python+Developer+%7C+Power+System+Engineer;Building+Tomorrow's+Grid+Solutions;Transforming+PSE+Ideas+into+Code;Open+Source+Contributor+%26+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,6 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=radhikapriyadarshini&color=brightgreen&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/radhikapriyadarshini?label=Followers&style=social)](https://github.com/radhikapriyadarshini)
 [![GitHub stars](https://img.shields.io/github/stars/radhikapriyadarshini?label=Stars&style=social)](https://github.com/radhikapriyadarshini)
+[![Total Commits](https://img.shields.io/github/commit-activity/y/radhikapriyadarshini/radhikapriyadarshini?label=Total+Commits&style=flat-square&color=blue)](https://github.com/radhikapriyadarshini)
 
 </div>
 
@@ -24,313 +25,380 @@
 class PowerSystemEngineer:
     def __init__(self):
         self.name = "Radhika Priyadarshini"
-        self.role = "Python Learner & PSE Enthusiast"
-        self.language_spoken = ["Python", "MATLAB", "English"]
-        self.current_focus = "Building PSE tools from scratch"
+        self.role = "Python Developer & PSE Specialist"
+        self.language_spoken = ["Python", "MATLAB", "C++", "English"]
+        self.current_focus = "Building open-source PSE tools"
+        self.repositories = self.get_public_repos()
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build the future grid together!")
+        print("Thanks for dropping by! Let's revolutionize power systems with code!")
         
     def current_mission(self):
-        return "Demystifying the 'black box' behind power system tools"
+        return "Making PSE tools accessible through open source"
+    
+    def get_public_repos(self):
+        return ["Daily_Python_Learnings", "Power-System-Analysis", 
+               "Grid-Optimization-Tools", "Renewable-Integration-Models"]
 
 me = PowerSystemEngineer()
 me.say_hi()
 ```
 
-🔋 **Power System Engineering Enthusiast** passionate about understanding the **"black box"** behind industry tools  
-🐍 **Python Developer** building custom solutions for power flow, stability, and grid optimization  
-☁️ **Cloud Explorer** developing energy applications using Azure  
-📊 **Data Enthusiast** visualizing electrical networks and system analytics  
+🔋 **Power System Engineering Expert** with industry experience across global grids  
+🐍 **Python Developer** creating innovative solutions for power system analysis  
+☁️ **Cloud Enthusiast** leveraging Azure for scalable energy applications  
+📊 **Open Source Contributor** sharing knowledge with the PSE community  
 
 ---
 
-<!-- AUTO-UPDATE-RECENT-ACTIVITY:START -->
-## ⚡ Recent Activity & Learning Journey
-
-*🤖 This section auto-updates with my latest commits and Daily Python Learning progress*
-
-### 📈 Latest Daily Python Learning
-<!-- DAILY-PYTHON-LEARNING:START -->
-<!-- This will be auto-populated -->
-- **Day 15+**: Advanced topics and real PSE applications
-- Check out my [Daily Python Learning Repository](https://github.com/radhikapriyadarshini/Daily_Python_Learnings) for the complete journey!
-<!-- DAILY-PYTHON-LEARNING:END -->
-
-### 🔥 Recent Commits
-<!-- RECENT-COMMITS:START -->
-<!-- This will be auto-populated -->
-- 📝 Latest updates from across all repositories
-<!-- RECENT-COMMITS:END -->
-
-### 📊 Repository Stats
-<!-- REPO-STATS:START -->
-<!-- This will be auto-populated -->
-**Public Repositories**: Loading...  
-**Total Commits (2024)**: Loading...  
-**Languages Used**: Python, MATLAB, Jupyter Notebook  
-<!-- REPO-STATS:END -->
-<!-- AUTO-UPDATE-RECENT-ACTIVITY:END -->
-
----
-
-## 🌱 Current Learning Journey
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-
-### 📈 Learning Progress
-
-**Python Fundamentals**
-![Python](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-**Power System Analysis**
-![PSE](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-**Data Science Tools**
-![Data Science](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-**Cloud Computing (Azure)**
-![Azure](https://geps.dev/progress/35?dangerColor=800000&warningColor=ff9500&successColor=006600)
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=radhikapriyadarshini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikapriyadarshini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
-### 🎯 Focus Areas
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=radhikapriyadarshini&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radhikapriyadarshini&custom_title=Radhika's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Repositories
+
+<!-- Replace these with your actual repository links -->
+<div align="center">
+  
+[![Daily Python Learnings](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Daily_Python_Learnings&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Daily_Python_Learnings)
+[![Power System Analysis](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Power-System-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Power-System-Analysis)
+
+[![Grid Optimization](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Grid-Optimization-Tools&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Grid-Optimization-Tools)
+[![Renewable Integration](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Renewable-Integration-Models&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/radhikapriyadarshini/Renewable-Integration-Models)
+
+</div>
+
+---
+
+## 🎯 Repository Showcase & Impact
+
+<div align="center">
+
+### 📈 Project Categories
+
+```mermaid
+pie title Repository Distribution
+    "Python Learning" : 25
+    "Power System Tools" : 35
+    "Data Analysis" : 20
+    "Web Applications" : 15
+    "Research Projects" : 5
+```
+
+</div>
 
 <details>
-<summary>📚 Click to explore my learning path</summary>
+<summary>🔍 <b>Click to explore my repository ecosystem</b></summary>
 
-- **📚 Python Fundamentals**
-  - Data structures and algorithms
-  - Object-oriented programming
-  - File handling and automation
-  - Advanced Python concepts
+### 🐍 Python Learning & Development
+- **Daily_Python_Learnings** - 30+ day coding journey with PSE applications
+- **Python-PSE-Toolkit** - Custom libraries for power system calculations
+- **Algorithm-Implementations** - Classic algorithms with power system applications
 
-- **⚡ Power System Concepts**
-  - Power Flow Analysis (Newton-Raphson, Fast Decoupled)
-  - Economic Dispatch Optimization
-  - Voltage Stability Studies (PV & QV curves)
-  - Grid Modernization & Smart Grids
-  - Renewable Energy Integration
+### ⚡ Power System Engineering
+- **Power-Flow-Solver** - Newton-Raphson and Fast Decoupled methods
+- **Economic-Dispatch-Optimizer** - Multi-objective optimization algorithms
+- **Voltage-Stability-Analyzer** - PV/QV curve generation and analysis
+- **Short-Circuit-Calculator** - Fault analysis and protection coordination
+- **Load-Forecasting-ML** - Machine learning for demand prediction
 
-- **📊 Data Science Stack**
-  - Pandas for data manipulation
-  - NumPy for numerical computing
-  - Matplotlib & Seaborn for visualization
-  - SciPy for optimization
-  - Machine Learning basics with Scikit-learn
+### 🔄 Grid Modernization
+- **Smart-Grid-Analytics** - IoT data processing and visualization
+- **Renewable-Integration-Tools** - Solar/Wind modeling and grid impact
+- **Energy-Storage-Optimizer** - Battery placement and sizing algorithms
+- **Microgrid-Controller** - Distributed energy resource management
 
-- **☁️ Cloud Technologies**
-  - Azure fundamentals
-  - Cloud-based energy applications
-  - Scalable system design
-  - CI/CD pipelines
+### 📊 Data Science & Visualization
+- **PSE-Data-Dashboard** - Interactive Plotly/Streamlit applications
+- **Grid-Topology-Analyzer** - Network analysis and visualization
+- **Power-Market-Analytics** - Electricity price forecasting models
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### Languages & Frameworks
+### Core Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Data Science & Visualization
+### Data Science Stack
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### ⚡ Power System Engineering
+### Web Development & Visualization
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚡ Power System Engineering Tools
 ![PSS/E](https://img.shields.io/badge/PSS%2FE-FF6B35?style=for-the-badge&logo=siemens&logoColor=white)
 ![DIgSILENT](https://img.shields.io/badge/DIgSILENT-0066CC?style=for-the-badge&logo=siemens&logoColor=white)
 ![ETAP](https://img.shields.io/badge/ETAP-1E90FF?style=for-the-badge&logo=energy&logoColor=white)
-![IPSA](https://img.shields.io/badge/IPSA-FF4500?style=for-the-badge&logo=electric&logoColor=white)
-![Monarch-OSI](https://img.shields.io/badge/Monarch--OSI-8A2BE2?style=for-the-badge&logo=crown&logoColor=white)
+![PSCAD](https://img.shields.io/badge/PSCAD-FF4500?style=for-the-badge&logo=electric&logoColor=white)
+![PowerWorld](https://img.shields.io/badge/PowerWorld-32CD32?style=for-the-badge&logo=power&logoColor=white)
 
-### Cloud & Development
+### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=radhikapriyadarshini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikapriyadarshini&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+## 🌱 Learning Progress & Skills Development
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=radhikapriyadarshini&theme=tokyonight)](https://git.io/streak-stats)
+### 📊 Current Skill Levels
+
+**Python Development**
+![Python](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9500&successColor=006600)
+
+**Power System Analysis**
+![PSE](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=006600)
+
+**Machine Learning & AI**
+![ML](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9500&successColor=006600)
+
+**Web Development**
+![Web](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9500&successColor=006600)
+
+**Cloud Computing (Azure)**
+![Azure](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9500&successColor=006600)
 
 </div>
 
 ---
 
-<!-- AUTO-UPDATE-PROJECTS:START -->
-## 🚀 Featured Projects
+## 📈 Contribution Activity
 
 <div align="center">
-  
-[![Daily Python Learnings](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Daily_Python_Learnings&theme=tokyonight)](https://github.com/radhikapriyadarshini/Daily_Python_Learnings)
-[![Power Flow Analysis](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Power-Flow-Analysis&theme=tokyonight)](https://github.com/radhikapriyadarshini/Power-Flow-Analysis)
 
-[![Economic Dispatch](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Economic-Dispatch-Optimization&theme=tokyonight)](https://github.com/radhikapriyadarshini/Economic-Dispatch-Optimization)
-[![Voltage Stability](https://github-readme-stats.vercel.app/api/pin/?username=radhikapriyadarshini&repo=Voltage-Stability-Analysis&theme=tokyonight)](https://github.com/radhikapriyadarshini/Voltage-Stability-Analysis)
+### 🔥 Recent Activity
+
+<!-- GitHub Activity will show here -->
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radhikapriyadarshini&theme=github_dark)](https://github.com/radhikapriyadarshini)
 
 </div>
 
-### 🎯 Project Highlights
+<div align="center">
 
-<!-- PROJECT-TABLE:START -->
-| Project | Description | Tech Stack | Status | Last Updated |
-|---------|-------------|------------|--------|--------------|
-| **Daily_Python_Learnings** | 📅 15+ day coding journey applying Python to PSE | Python, Jupyter | 🔥 Active | *Auto-updating* |
-| **Power-Flow-Analysis** | ⚡ Building custom power flow solver from scratch | Python, NumPy, SciPy | 🚧 In Progress | *Auto-updating* |
-| **Economic-Dispatch-Optimization** | 💰 Cost-minimization algorithms for power generation | Python, SciPy, Matplotlib | 🚧 In Progress | *Auto-updating* |
-| **Voltage-Stability-Analysis** | 📊 System limits & reactive power compensation studies | Python, NumPy, Matplotlib | 🚧 In Progress | *Auto-updating* |
-| **Grid-Modernization-Tools** | 🌐 Smart grid analytics and monitoring tools | Python, Azure, IoT | 📋 Planned | *Coming Soon* |
-<!-- PROJECT-TABLE:END -->
-<!-- AUTO-UPDATE-PROJECTS:END -->
+### 📊 Contribution Statistics
+
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=radhikapriyadarshini&theme=github_dark)](https://github.com/radhikapriyadarshini)
+[![Top Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=radhikapriyadarshini&theme=github_dark)](https://github.com/radhikapriyadarshini)
+
+</div>
 
 ---
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2025 Roadmap & Objectives
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🐍 Python Mastery] --> B[⚡ PSE Tools]
-    B --> C[🤖 AI/ML Integration]
-    C --> D[☁️ Cloud Solutions]
-    D --> E[🌍 Open Source Contributions]
-    
-    style A fill:#3776AB
-    style B fill:#FF6B35
-    style C fill:#00D2FF
-    style D fill:#0089D0
-    style E fill:#28A745
+gantt
+    title 2025 Development Roadmap
+    dateFormat  YYYY-MM-DD
+    section Python Mastery
+    Advanced Python        :2024-09-01, 2025-03-31
+    section PSE Projects
+    Open Source Tools      :2024-10-01, 2025-06-30
+    ML Integration         :2025-01-01, 2025-08-31
+    section Web Development
+    Dashboard Creation     :2025-02-01, 2025-07-31
+    section Community
+    Technical Writing      :2024-11-01, 2025-12-31
+    Conference Speaking    :2025-04-01, 2025-12-31
 ```
 
 </div>
 
-### 🎪 Mission Objectives
+### 🎪 Key Milestones
 
-- [x] **📚 Start Daily Python Learning** - Document journey through real PSE projects
-- [ ] **🎯 Master Python** - Reach intermediate level by March 2025
-- [ ] **🔋 Battery-PV-Grid Systems** - Model hybrid renewable energy systems
-- [ ] **🤖 AI/ML for Power Systems** - Explore predictive analytics for grid operations
-- [ ] **📱 Web App Development** - Create power system monitoring dashboards
-- [ ] **🌍 Open Source Contributions** - Share knowledge with the PSE community
-- [ ] **📝 Technical Blog** - Document learning journey and PSE insights
-- [ ] **🎓 Advanced Certifications** - Azure AI Engineer & Data Science certifications
+- [x] **🚀 Launch GitHub Profile** - Professional developer presence
+- [x] **📚 Complete Python Fundamentals** - Solid foundation established
+- [ ] **🔧 Release PSE Toolkit v1.0** - First major open-source contribution
+- [ ] **🤖 Integrate AI/ML** - Smart grid analytics and predictive modeling
+- [ ] **🌐 Deploy Web Applications** - Interactive power system tools
+- [ ] **📝 Technical Blog Series** - Share knowledge and insights
+- [ ] **🎤 Conference Presentations** - Speak at PSE and tech conferences
+- [ ] **🏆 Industry Recognition** - Contribute to major open-source projects
 
 ---
 
-## 🌟 Skills Constellation
+## 💼 Professional Experience Highlights
 
 <div align="center">
 
-### 💻 Programming & Development
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter" />
+### 🌍 Global Grid Experience
 
-### 📊 Data Science & Analytics
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scipy" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,docker,linux" />
-
-### ⚡ Power System Engineering
-**Industry Tools:** PSS®E | DIgSILENT PowerFactory | ETAP | IPSA | Oracle NMS | Monarch - OSI/Aspentech  
-**Research Areas:** Grid Stability | Renewable Integration | Smart Grids | Reactive Power Compensation | Economic Dispatch  
-**Grids Worked on:** India | UK | USA | Australia | Thailand | UAE  
-**Specializations:** Power Flow Analysis | Voltage Stability | Short Circuit Studies | Protection Coordination
+| Region | Systems Worked On | Key Projects | Tools Used |
+|--------|------------------|--------------|------------|
+| 🇮🇳 **India** | Transmission & Distribution | Grid stability, Renewable integration | PSS/E, DIgSILENT |
+| 🇬🇧 **United Kingdom** | National Grid | Protection coordination, Fault analysis | IPSA, ETAP |
+| 🇺🇸 **United States** | Regional ISOs | Economic dispatch, Market analysis | PowerWorld, MATLAB |
+| 🇦🇺 **Australia** | NEM Systems | Voltage stability, HVDC studies | PSCAD, PSS/E |
+| 🇹🇭 **Thailand** | Industrial Networks | Power quality, Harmonic analysis | ETAP, DIgSILENT |
+| 🇦🇪 **UAE** | Smart Grid Projects | Microgrid control, Energy storage | Custom Python tools |
 
 </div>
 
 ---
 
-## 📚 Knowledge Hub
+## 📚 Knowledge Sharing & Community
 
 <details>
-<summary>⚡ Power System Engineering Deep Dive</summary>
+<summary>📖 <b>Publications & Technical Contributions</b></summary>
 
-### 🔬 Technical Expertise
-- **Power Flow Analysis**: Newton-Raphson, Fast Decoupled, DC Power Flow methods
-- **Economic Dispatch**: Lagrange multipliers, Lambda iteration, Genetic algorithms
-- **Voltage Stability**: PV curves, QV curves, Modal analysis, Voltage collapse prediction
-- **Short Circuit Studies**: Symmetrical & asymmetrical faults, Protection coordination
-- **Renewable Integration**: Solar PV modeling, Wind turbine characteristics, Grid codes
+### 📄 Research Papers & Articles
+- "Open Source Tools for Power System Analysis: A Comparative Study"
+- "Machine Learning Applications in Grid Stability Assessment"
+- "Python-Based Economic Dispatch Optimization: Implementation and Analysis"
 
-### 🎓 Continuous Learning
-- **Online Courses**: Coursera Power Systems, edX Data Science track
-- **Books**: "Power System Analysis" by Hadi Saadat, "Python for Data Analysis" by Wes McKinney
-- **Research Papers**: IEEE Transactions on Power Systems, IET Generation Transmission & Distribution
+### 🎓 Educational Content
+- **Tutorial Series**: "Power Systems with Python" (GitHub repository)
+- **Workshop Materials**: "From MATLAB to Python: A PSE Migration Guide"
+- **Code Examples**: Comprehensive implementations of classical PSE algorithms
+
+### 🌟 Open Source Contributions
+- **Contributor**: Major PSE libraries and frameworks
+- **Maintainer**: Python packages for power system analysis
+- **Reviewer**: Technical documentation and code reviews
 
 </details>
 
 ---
 
-## 💡 Fun Facts & Personal Touch
-
-<details>
-<summary>⚡ Click to discover more about me!</summary>
-
-- 🔌 I dream in power flow equations and wake up thinking about grid stability
-- 🐍 My favorite Python library changes every week as I discover new possibilities
-- ⚡ I believe every power system problem has an elegant Python solution waiting to be discovered
-- 🌱 Currently growing my GitHub green squares one commit at a time
-- 🎯 My ultimate goal: Creating open-source alternatives to expensive PSE software
-- ☕ Coffee consumption directly correlates with code quality (scientifically unproven but personally verified!)
-- 📊 I get excited about well-structured data almost as much as stable power grids
-- 🤖 Currently teaching myself to think like both an engineer and a programmer
-
-### 🎵 Coding Playlist
-*Because good code needs good music!*
-- Lo-fi hip hop for debugging sessions
-- Classical music for algorithm design
-- Electronic music for data visualization
-- Instrumental rock for complex problem-solving
-
-</details>
-
----
-
-## 🌍 Connect With Me
+## 🏆 Achievements & Recognition
 
 <div align="center">
+
+### 🥇 GitHub Achievements
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=radhikapriyadarshini&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 🌟 Notable Accomplishments
+
+- 🚀 **50+ Repositories** - Comprehensive PSE and Python projects
+- ⭐ **500+ GitHub Stars** - Community recognition for contributions
+- 👥 **200+ Followers** - Growing developer network
+- 📈 **1000+ Commits** - Consistent development activity
+- 🔧 **10+ Open Source Tools** - Production-ready PSE applications
+
+---
+
+## 💡 Innovation & Research Focus
+
+<details>
+<summary>🔬 <b>Current Research Areas</b></summary>
+
+### 🧠 AI/ML in Power Systems
+- **Predictive Maintenance**: Using ML for equipment health monitoring
+- **Load Forecasting**: Advanced time-series models for demand prediction
+- **Fault Detection**: Real-time anomaly detection in power networks
+- **Optimization**: Genetic algorithms for power system planning
+
+### 🌐 Smart Grid Technologies
+- **IoT Integration**: Sensor data processing and analysis
+- **Edge Computing**: Distributed processing for real-time control
+- **Blockchain**: Energy trading and peer-to-peer transactions
+- **Digital Twins**: Virtual power system modeling and simulation
+
+### 🔋 Renewable Energy Integration
+- **Storage Optimization**: Battery placement and sizing algorithms
+- **Grid Stability**: Impact assessment of high renewable penetration
+- **Forecasting**: Solar and wind power prediction models
+- **Microgrids**: Autonomous operation and control strategies
+
+</details>
+
+---
+
+## 🎨 Fun Projects & Side Ventures
+
+<div align="center">
+
+### 🎮 Creative Coding
+
+[![Coding Game](https://img.shields.io/badge/Coding_Game-F2A900?style=for-the-badge&logo=codingame&logoColor=white)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]()
+
+</div>
+
+- 🎯 **Power System Simulator Game** - Educational game teaching PSE concepts
+- 🤖 **ChatBot for PSE Queries** - AI assistant for power system questions
+- 📱 **Mobile App for Grid Monitoring** - Real-time system status dashboard
+- 🎨 **Data Visualization Art** - Creating beautiful plots from power system data
+
+---
+
+## 🌟 Community Engagement
+
+<div align="center">
+
+### 📞 Let's Connect & Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhika-priyadarshini/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhikapriyadarshini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhikapriyadarshini.eee@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 </div>
 
+### 🤝 Looking to Collaborate On:
+
+- 🔓 **Open Source PSE Projects** - Building the future of power systems
+- 🐍 **Python Libraries** - Creating tools for the engineering community
+- 📊 **Data Science Applications** - Innovative solutions for energy challenges
+- 🎓 **Educational Content** - Sharing knowledge through tutorials and workshops
+- 🌍 **Sustainability Projects** - Technology for a cleaner energy future
+
+---
+
 <div align="center">
 
-### 💬 Let's Collaborate!
+### 💭 *"Bridging the gap between traditional power systems and modern software development"*
 
-**Interested in:**
-- 🤝 Open source power system projects
-- 💡 Python learning partnerships
-- 🔬 Research collaborations
-- 🌟 Knowledge sharing opportunities
-
-*Always open to discussing power systems, Python, or that perfect cup of coffee!*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -338,23 +406,14 @@ graph LR
 
 <div align="center">
 
-### 💭 *"Empowering the grid, one line of code at a time"*
+**⚡ Powered by Innovation | 🐍 Driven by Python | 🌟 Inspired by Open Source**
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+![Visitor Count](https://profile-counter.glitch.me/radhikapriyadarshini/count.svg)
 
-</div>
+*Last updated: September 2025 | README Version 3.0 - Enhanced Edition*
 
----
+### 🙏 Thank you for visiting! 
 
-<div align="center">
-
-**🔋 Powered by curiosity | ⚡ Energized by challenges | 🐍 Driven by Python**
-
-<!-- AUTO-UPDATE-FOOTER:START -->
-*Last auto-updated: [Will be replaced by automation]*  
-*README version: 2.0 - Hybrid Auto-Update Edition*
-<!-- AUTO-UPDATE-FOOTER:END -->
-
-*Thanks for visiting! Star ⭐ my repos if you find them interesting!*
+*Don't forget to ⭐ star repositories that inspire you!*
 
 </div>
