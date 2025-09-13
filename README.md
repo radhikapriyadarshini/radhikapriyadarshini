@@ -299,15 +299,6 @@ gantt
 [![Trophy](https://github-profile-trophy.vercel.app/?username=radhikapriyadarshini&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-### 🌟 Notable Accomplishments
-
-- 🚀 **50+ Repositories** - Comprehensive PSE and Python projects
-- ⭐ **500+ GitHub Stars** - Community recognition for contributions
-- 👥 **200+ Followers** - Growing developer network
-- 📈 **1000+ Commits** - Consistent development activity
-- 🔧 **10+ Open Source Tools** - Production-ready PSE applications
-
 ---
 
 ## 💡 Innovation & Research Focus
